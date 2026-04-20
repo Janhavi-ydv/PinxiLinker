@@ -99,7 +99,3 @@ cd frontend
 npm install
 npm start
 ```
-
-## License
-
-Licensed under the MIT License.
